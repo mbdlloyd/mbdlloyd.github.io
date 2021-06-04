@@ -2360,7 +2360,7 @@ input, select, textarea {
 		}
 
 		select:focus::-ms-value {
-			background-color: transparent;
+			background-color:  Bla;
 		}
 
 		select::-ms-expand {
